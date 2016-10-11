@@ -1,0 +1,1 @@
+var gbk = 'Œ“ « gbk'
