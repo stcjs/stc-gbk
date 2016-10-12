@@ -16,7 +16,7 @@ npm install stc-gbk
 ## How to use
 
 ```
-const csslint = require('stc-gbk')
+const gbk = require('stc-gbk')
 
 stc.workflow({
   gbk2utf8: {plugin: gbk, include: {type: 'tpl'}, options: {cov: 'start'}},
